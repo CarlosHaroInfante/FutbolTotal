@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MenúPersonal.Servicios
+namespace MenuPersonal.Servicios
 {
     /// <summary>
     /// Interfaz con la relación con la función del menú
@@ -23,7 +23,7 @@ namespace MenúPersonal.Servicios
         /// 270923 - chi
         /// </summary>
 
-        public int menuDeEleccion();
+        public int MenuDeEleccion();
         
     }
 }
